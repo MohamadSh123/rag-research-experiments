@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Corpus PDFs and local vector stores
+*.pdf
+chroma*/
